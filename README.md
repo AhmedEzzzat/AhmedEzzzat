@@ -10,4 +10,4 @@ and the write-ups behind them at **[geotech.dev/engineering](https://geotech.dev
 
 - Latest: [mail-spray-guard](https://github.com/geotech-engineering/mail-spray-guard): stop password spraying on Dovecot/Postfix with fail2ban.
 
-[LinkedIn](https://www.linkedin.com/in/ahmedelshamy-geotech) · [geotech.dev](https://geotech.dev)
+[LinkedIn](https://www.linkedin.com/in/theahmedelshamy) · [geotech.dev](https://geotech.dev)
